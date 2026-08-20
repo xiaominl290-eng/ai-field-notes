@@ -12,7 +12,7 @@
 
 页面布局在 [`app/page.tsx`](app/page.tsx)，全部视觉样式在 [`app/globals.css`](app/globals.css)。
 
-发布前，请把 `app/page.tsx` 顶部导航中的 GitHub 地址换成你自己的仓库地址。
+项目仓库：[xiaominl290-eng/ai-field-notes](https://github.com/xiaominl290-eng/ai-field-notes)。
 
 ## 本地运行
 
