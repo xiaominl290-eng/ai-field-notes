@@ -26,7 +26,7 @@ export default function Home() {
           <a href="#archive">短讯</a>
           <a href="#about">关于</a>
         </nav>
-        <a className="github-link" href="https://github.com/" target="_blank" rel="noreferrer">
+        <a className="github-link" href="https://github.com/xiaominl290-eng/ai-field-notes" target="_blank" rel="noreferrer">
           GitHub <Arrow />
         </a>
       </header>
